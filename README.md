@@ -1,4 +1,4 @@
 # Leetcode 
 
 
-a repo for solutions
+A repo for solutions!
